@@ -1,0 +1,5 @@
+{
+  "name": "시네마로그",
+  "description": "Gemini로 구동되는 나만의 영화 저널. 평점과 리뷰를 기록하고, 좋아하는 영화에 대한 깊이 있는 AI 주제 분석을 받아보세요.",
+  "requestFramePermissions": []
+}
